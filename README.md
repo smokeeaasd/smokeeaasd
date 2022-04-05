@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bom dia, boa tarde, boa noite. 👋
 
 [![card](https://github-readme-stats.vercel.app/api?username=smokeeaasd&theme=tokyonight&show_icons=true)](https://github.com/smokeeaasd/)
 
