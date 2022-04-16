@@ -2,6 +2,8 @@
 
 
 ## estudando...
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/arduino-226072.png" alt="csharp"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/csharp-1175240.png" alt="csharp"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="Javascript"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/php-2752101-2284918.png" alt="PHP"/></code>
