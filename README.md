@@ -1,7 +1,7 @@
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=smokeeaasd&hide=html&layout=compact&theme=dark)](https://github.com/smokeeaasd/)
 
-## 💜 Olá, meu nome é <strong>Lucas!</strong>
 
+## estudando...
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="Javascript"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/php-2752101-2284918.png" alt="PHP"/></code>
