@@ -1,6 +1,3 @@
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=smokeeaasd&hide=html&layout=compact&theme=dark)](https://github.com/smokeeaasd/)
-
-
 ## estudando...
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/arduino-226072.png" alt="csharp"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/csharp-1175240.png" alt="csharp"/></code>
