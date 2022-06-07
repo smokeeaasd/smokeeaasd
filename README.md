@@ -1,1 +1,1 @@
-<script>bom dia</script>
+bom dia
