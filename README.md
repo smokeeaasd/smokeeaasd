@@ -1,1 +1,1 @@
-bom dia
+sou hacker etico
