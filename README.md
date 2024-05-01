@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8C00FF,100:B380FF&height=175&animation=fadeIn&text=my%20profile&fontColor=FFFFFF&fontSize=40&fontAlignY=35)
-
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=175&animation=fadeIn&text=Lucas%20Alencar&fontColor=924FFF&fontSize=50&fontAlignY=15&desc=fullstack%20developer&descAlign=58&descAlignY=35)
 
 <div>
@@ -21,5 +19,3 @@
 ![arduino](https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white)
 ![tinkercad](https://img.shields.io/badge/Tinkercad-1477D1.svg?style=for-the-badge&logo=Tinkercad&logoColor=white)
 </div>
-
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:8C00FF,100:B380FF&height=175)
