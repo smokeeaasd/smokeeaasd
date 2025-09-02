@@ -1,3 +1,34 @@
 # 👋
 
-![ts](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white) ![net](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white) ![node](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) ![php](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white) ![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+**Linguagens & Tecnologias:**  
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JS](https://skillicons.dev/icons?i=javascript)
+![TS](https://skillicons.dev/icons?i=ts)
+![PHP](https://skillicons.dev/icons?i=php)
+![C#](https://skillicons.dev/icons?i=csharp)
+
+**Bancos de Dados:**  
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![SQLite](https://skillicons.dev/icons?i=sqlite)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
+**Frameworks:**  
+![React](https://skillicons.dev/icons?i=react)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![ASP.NET](https://skillicons.dev/icons?i=dotnet)
+
+**Infra / Cloud & Deploy:**  
+![Docker](https://skillicons.dev/icons?i=docker)
+![Azure](https://skillicons.dev/icons?i=azure)
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+
+## 📚
+![Go](https://skillicons.dev/icons?i=go)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)
+![Redis](https://skillicons.dev/icons?i=redis)
+![OpenTelemetry](https://go-skill-icons.vercel.app/api/icons?i=opentelemetry)
+![Jaeger](https://go-skill-icons.vercel.app/api/icons?i=jaeger)
+![Prometheus](https://skillicons.dev/icons?i=prometheus)
+![Grafana](https://skillicons.dev/icons?i=grafana)
