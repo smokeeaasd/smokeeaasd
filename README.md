@@ -15,6 +15,7 @@
 
 **Frameworks:**  
 ![React](https://skillicons.dev/icons?i=react)
+![Vue](https://skillicons.dev/icons?i=vue)
 ![Laravel](https://skillicons.dev/icons?i=laravel)
 ![ASP.NET](https://skillicons.dev/icons?i=dotnet)
 
