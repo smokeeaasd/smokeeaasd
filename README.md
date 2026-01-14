@@ -29,7 +29,5 @@
 ![Go](https://skillicons.dev/icons?i=go)
 ![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)
 ![Redis](https://skillicons.dev/icons?i=redis)
-![OpenTelemetry](https://go-skill-icons.vercel.app/api/icons?i=opentelemetry)
-![Jaeger](https://go-skill-icons.vercel.app/api/icons?i=jaeger)
 ![Prometheus](https://skillicons.dev/icons?i=prometheus)
 ![Grafana](https://skillicons.dev/icons?i=grafana)
