@@ -23,10 +23,10 @@
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Azure](https://skillicons.dev/icons?i=azure)
 ![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
 
 ## 📚
 ![Go](https://skillicons.dev/icons?i=go)
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
 ![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)
 ![Redis](https://skillicons.dev/icons?i=redis)
 ![OpenTelemetry](https://go-skill-icons.vercel.app/api/icons?i=opentelemetry)
