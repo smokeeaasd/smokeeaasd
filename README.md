@@ -24,3 +24,4 @@
 ![Azure](https://skillicons.dev/icons?i=azure)
 ![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
 ![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![Cloudflare Workers](https://skillicons.dev/icons?i=workers)
