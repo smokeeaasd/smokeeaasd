@@ -24,10 +24,3 @@
 ![Azure](https://skillicons.dev/icons?i=azure)
 ![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
 ![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
-
-## 📚
-![Go](https://skillicons.dev/icons?i=go)
-![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)
-![Redis](https://skillicons.dev/icons?i=redis)
-![Prometheus](https://skillicons.dev/icons?i=prometheus)
-![Grafana](https://skillicons.dev/icons?i=grafana)
